@@ -3,12 +3,17 @@
   "version": "1.0.0",
   "description": "Hot stream #11",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node --experimental-strip-types src/index.ts"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "devDependencies": {
-    "@playwright/test": "^1.46.1",
-    "@types/node": "^22.5.0"
+    "playwright": "^1.46.1",
+    "@swc/wasm-typescript": "^1.7.14",
+    "@types/node": "^22.5.0",
+    "type": "module"
   }
 }

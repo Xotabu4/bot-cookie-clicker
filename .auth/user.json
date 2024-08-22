@@ -1,0 +1,431 @@
+{
+  "cookies": [
+    {
+      "name": "_fbp",
+      "value": "fb.1.1724317260721.977326826817629445",
+      "domain": ".dashnet.org",
+      "path": "/",
+      "expires": 1732093276,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__gads",
+      "value": "ID=221cc9444dc28ee6:T=1724317261:RT=1724317261:S=ALNI_MZi7X4qAwzMn8vAqXEmVABKt-u7iA",
+      "domain": ".dashnet.org",
+      "path": "/",
+      "expires": 1758013261,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gpi",
+      "value": "UID=00000ea11f2f57f4:T=1724317261:RT=1724317261:S=ALNI_MaESuelzTzVJPnz-y-IWehe2WWZsg",
+      "domain": ".dashnet.org",
+      "path": "/",
+      "expires": 1758013261,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__eoi",
+      "value": "ID=e67f59634b0f361e:T=1724317261:RT=1724317261:S=AA-Afjbfg2-7D2TiqumH0TTbZZTt",
+      "domain": ".dashnet.org",
+      "path": "/",
+      "expires": 1739869261,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUk26JGz6UQn_mdjLeyfVXi9RRULaxZlFdSp2ilUiTz_axJGRCnCeYWaSMa_",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1758877261.540412,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1726909262.134453,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1739869262.134522,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "APC",
+      "value": "AfxxVi5jtEZkmQ13xcwh_0ugs3ZAehMHM1v9CFoCdRsY3QquGALNog",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1739869261.649989,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XANDR_PANID",
+      "value": "FzXlWxgVqWM8jAAv9wBZ8NkWc8GMIjaMv4f05zNGVhOiXuFfFfpUEgQuEYf7nFU9A2zoJiZn8gVKdJ7KuvxZvBtr1fDd_KPv2v-XKR2euGQ.",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1732093261.733631,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1758877261.733886,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "value": "5780617613191730475",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1732093261.733975,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anj",
+      "value": "dTM7k!M41.D>6NRF']wIg2C'$pSumx!]tbPl1M>e)ZlrFUfJ+tGXxpWLbHzla>MKCCYdQ<Sf3IJ`[.oGNabw)_f`553If)y3KL9D3I?+^pWIJe",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1732093261.698206,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "3331",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1732093261.714404,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMID",
+      "value": "Zsb.TVVbLakAAArjATBBswAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1755853261.855325,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "3355",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1732093261.85536,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cookieconsent_dismissed",
+      "value": "yes",
+      "domain": ".dashnet.org",
+      "path": "/",
+      "expires": 1755853266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cid_ab89359a41e84542869ad25dda3d5842",
+      "value": "1",
+      "domain": ".ctnsnet.com",
+      "path": "/",
+      "expires": 1755853269.993403,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "gid_CAESEHMLhGEASS-EA0oJRHt3AYA",
+      "value": "1",
+      "domain": ".ctnsnet.com",
+      "path": "/",
+      "expires": 1755853269.993439,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "DSID",
+      "value": "NO_DATA",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1724320870.431643,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ar_debug",
+      "value": "1",
+      "domain": ".googleadservices.com",
+      "path": "/",
+      "expires": 1732093270.385081,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ts",
+      "value": "1724317269",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1755853269.041611,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "g",
+      "value": "Ub9fBmpHXxtDVEb20Xj1_1724317269170",
+      "domain": ".creativecdn.com",
+      "path": "/",
+      "expires": 1755853269.041584,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&82cf8e49-b74c-4083-8930-a0aeaf23140b\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1755853270.087504,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=VGST09:s=V:r=V:a=V:p=V:g=2979:u=1:x=1:i=1724317269:t=1724403669:v=2:sig=AQHwUZcn3dtw-yjKZ_p_C_yddHa8pQhT\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1724403670.087539,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FCNEC",
+      "value": "%5B%5B%22AKsRol-7mOPfvOTAW4QB7UPNTY5oNXCktIWkl30tpDX4XMyXQL9OE6Mhv2a9LcWfmOakjF835nlRIurQ8-RmJ3KzN6e7wQ7H7PRx_37VzmkF7a1vNZMjsT3rEiBsIQmNujB7jrjt5Q1lCwM-nV_zjs5puCp-b8t3kw%3D%3D%22%5D%5D",
+      "domain": ".dashnet.org",
+      "path": "/",
+      "expires": 1755853269,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa-user-id",
+      "value": "s%3A0-4d5e340e-5742-5a7c-553f-47fb28697f6e.oA53UoMa7XK1yX2FUu5%2Ffgdb0U9sk25j23OYKxmWCvo",
+      "domain": "sync.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1755853269.420053,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id",
+      "value": "s%3A0-4d5e340e-5742-5a7c-553f-47fb28697f6e.oA53UoMa7XK1yX2FUu5%2Ffgdb0U9sk25j23OYKxmWCvo",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1755853269.420075,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%3ATV40DldCWnxVP0f7KGl_bsIf1I8.5lC%2B%2Bim1e2MtaA%2Bae5W4uVVQLSRDofd0UMOCtOV5XqU",
+      "domain": "sync.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1755853269.420101,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%3ATV40DldCWnxVP0f7KGl_bsIf1I8.5lC%2B%2Bim1e2MtaA%2Bae5W4uVVQLSRDofd0UMOCtOV5XqU",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1755853269.420121,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v3",
+      "value": "s%3AAQAKINSObph83cWGpY_FFVg3GGIk7CtjmkuuJ0R065VkUFNLEAMYAyDV_Ju2BjABOgTCEQwUQgTf3ZKm.9MpI3Zjce0hz7EPwlJLKqzzmyDH1GF65kHga1TtS1g4",
+      "domain": "sync.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1755853269.420133,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v3",
+      "value": "s%3AAQAKINSObph83cWGpY_FFVg3GGIk7CtjmkuuJ0R065VkUFNLEAMYAyDV_Ju2BjABOgTCEQwUQgTf3ZKm.9MpI3Zjce0hz7EPwlJLKqzzmyDH1GF65kHga1TtS1g4",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1755853269.420154,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_tracker",
+      "value": "%7B%22UUID%22%3A%22ABA925E7-8D0E-4D59-1B6F-E75828E7EE67%22%7D",
+      "domain": ".travelaudience.com",
+      "path": "/",
+      "expires": 1758531669.389967,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UID",
+      "value": "OPU50b41bb3174740a9897f1ea3459e738e",
+      "domain": ".adx.opera.com",
+      "path": "/",
+      "expires": 1755853270.429992,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANON_ID",
+      "value": "annt6ZaoZdUQdR2Hp9uowmyIDpEXHdmBVQCLLIZdmYDUvjTqL19oaRtTUXcW1qVhLGqWIRnKNjF6F4ITA2cfXBWDAJSqTOi",
+      "domain": ".tribalfusion.com",
+      "path": "/",
+      "expires": 1732093270.498167,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_auid",
+      "value": "oQzC22siDs2hJytxV_7GZg",
+      "domain": ".c.appier.net",
+      "path": "/",
+      "expires": 1755853271.152103,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gu",
+      "value": "CAESEOQouFLIUfqA_mTcmygoVR8",
+      "domain": ".c.appier.net",
+      "path": "/",
+      "expires": 1726909271.152141,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "euds",
+      "value": "H4sIAAAAAAAA_-OSMXR2dA12DTAPLvbKT3MKMU5KTUmL8M8OMHbzcgUAg0UGWx4AAAA",
+      "domain": ".rfihub.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rud",
+      "value": "H4sIAAAAAAAA_-MStjAyMLYwNDQ0NrMEInNTC3MjIT5D3bTAiADL1AyLNDO_EACLg_i-JQAAAA",
+      "domain": ".rfihub.com",
+      "path": "/",
+      "expires": 1758013271.471709,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "eud",
+      "value": "H4sIAAAAAAAA_-OSMXR2dA12DTAPLvbKT3MKMU5KTUmL8M8OMHbzcg3iNTQ3MjEGEuaGZgYmrxhR-KYAdpHA2j0AAAA",
+      "domain": ".rfihub.com",
+      "path": "/",
+      "expires": 1758013271.471744,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ruds",
+      "value": "H4sIAAAAAAAA_-MStjAyMLYwNDQ0NrMEInNTC3MjIT5D3bTAiADL1AyLNDO_EACLg_i-JQAAAA",
+      "domain": ".rfihub.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://orteil.dashnet.org",
+      "localStorage": [
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1724317260711"
+        },
+        {
+          "name": "CookieClickerGame",
+          "value": "Mi4wNTJ8fDE3MjQzMTcyNjI0MTk7MTcyNDMxNzI2MjQxOTsxNzI0MzE3MjY4MDIzO1R1cmJvIEtpdHRlbjtzaXhkbzswLDEsMCwwLDAsMCwwfDExMTExMTAxMTAwMTAxMTAxMTAxMDExMDAwMXwwOzA7MDswOzA7MDswOzA7MDswOzA7MDswOzA7MDswOzA7MDswOzA7MDswOzswOzA7MDswOzA7MDswOy0xOy0xOy0xOy0xOy0xOzA7MDswOzA7NzU7MDswOy0xOy0xOzE3MjQzMTcyNjI0MTk7MDswOzs0MTswOzA7MDs1MDswOzA7fDAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7MCwwLDAsMCwsMCwwOzAsMCwwLDAsLDAsMDswLDAsMCwwLCwwLDA7fDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDB8MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMHx8%21END%21"
+        },
+        {
+          "name": "google_ama_config",
+          "value": "[[[[null,0,null,[],null,null,\"DIV#debug>DIV.thing\"],1,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#debug>DIV.thing\"],4,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]]],[],[1724403668460],\"20240818_103433\",[],[[[[null,null,null,[],null,null,\"DIV#home>DIV\"],[null,null,null,[]]],[[null,null,null,[],null,null,\"DIV#home>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"P\"]],[[null,null,null,[],null,null,\"DIV#Wabout>DIV.desc\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"P\"]],[[null,null,null,[],null,null,\"DIV#javascriptError\"],[null,null,null,[]]],[[null,null,null,[],null,null,\"DIV#javascriptError\"],[null,null,null,[],null,null,\"DIV\"],null,[null,null,null,[],null,null,\"DIV\"]],[[null,null,null,[],null,null,\"DIV#create>DIV\"],[null,null,null,[]]],[[null,null,null,[],null,null,\"DIV#create>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H1,H2,LI,P\"]],[[null,5,null,[],null,null,\"DIV#create>DIV>P\"],[null,null,null,[]]],[[null,4,null,[],null,null,\"DIV#Wlinks>DIV.inner>DIV.li>A>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"P\"]],[[null,3,null,[],null,null,\"DIV#Wgames>DIV.inner>DIV.li>A>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"P\"]],[[null,0,null,[],null,null,\"DIV#create>DIV>UL\"],[null,null,null,[],null,null,\"LI\"],null,[null,null,null,[],null,null,\"LI\"]],[[null,1,null,[],null,null,\"DIV#Wexps>DIV.inner>DIV.li>A>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"P\"]],[[null,1,null,[],null,null,\"DIV#create>DIV>UL\"],[null,null,null,[],null,null,\"LI\"],null,[null,null,null,[],null,null,\"LI\"]],[[null,1,null,[],null,null,\"DIV#Wtoys>DIV.inner>DIV.li>A>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"P\"]],[[null,2,null,[],null,null,\"DIV#create>DIV>P\"],[null,null,null,[]]]]],[],[null,[[1,\"1vp\",[[4,\"2vp\",\"2vp\"],[6,\"3vp\",\"3vp\"]],8,\"1vp\",0.30000001,[\"0.2vp\",\"0vp\",2]],[2,\"300px\",[[4,\"600px\",\"600px\"],[6,\"900px\",\"900px\"]],8,\"300px\",0.30000001,[\"60px\",\"0px\",2]]]],null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,0],null,null,[1,null,null,[],null,1],null,[1330989303],null,null,[1724101935047],null,null,null,null,null,null,null,null,null,[[\"Toggle toolbar expansion\",\"Toggle privacy and legal settings display\",\"Dismiss privacy and legal settings display\"]]]"
+        },
+        {
+          "name": "CookieClickerLang",
+          "value": "EN"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        }
+      ]
+    }
+  ]
+}
